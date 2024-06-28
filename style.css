@@ -1,0 +1,48 @@
+html {
+    background-color: dodgerblue;
+}
+
+h2 {
+    font-size: 3rem;
+    position: absolute;
+    color:dodgerblue
+}
+
+span {
+    color: red;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+    background-color: aliceblue;
+    border-radius: 2rem;
+    font-weight: bolder;
+    
+}
+
+.form {
+    width: 50%;
+    padding: 2rem;
+    margin-top: 6rem;   
+}
+
+.form input, label {
+    font-size: 1.5rem;
+    padding: .4rem;
+    border-radius: 4px;
+    width: 100%;
+    margin: .8rem;
+}
+
+.form button {
+    margin-right: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    border-radius: 4px;
+    font-size: 1.5rem;
+}
+
